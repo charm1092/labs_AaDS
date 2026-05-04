@@ -1,0 +1,62 @@
+(1)упорядоченные: 
+
+apple 1 The old wooden table was covered with fresh red apples shining softly in the evening light
+apricot 2 A sweet apricot fell silently from the tree and rolled across the dry grass under the warm sun
+banana 3 Yellow bananas were lying in a basket near the window where the light gently touched their surface
+cherry 4 Cherry blossoms covered the narrow street creating a quiet and peaceful atmosphere in the early morning
+date 5 Dates were carefully arranged on a plate and their rich sweetness filled the small cozy room
+fig 6 A fig tree was growing slowly in the garden surrounded by tall grass and the distant sound of birds
+grape 7 Grapes were harvested yesterday and placed in large baskets that stood near the old stone house
+kiwi 8 Kiwi fruit has a unique taste that reminds of something both fresh and slightly sweet at the same time
+lemon 9 Lemon juice is very sour but it adds a refreshing note to the water on a hot summer afternoon
+mango 10 Mangoes are popular in summer because of their bright flavor and soft texture that melts in the mouth
+melon 11 The melon was juicy and sweet and its aroma filled the entire kitchen during the quiet evening
+orange 12 Oranges contain vitamin C and their fresh smell spreads quickly when you peel them slowly
+peach 13 A peach lay on the plate and its soft skin reflected the light coming through the open window
+pear 14 Pears are soft and sweet and they are often eaten in the calm silence of a warm afternoon
+plum 15 Plums are often used for jam and their deep color makes the result look rich and inviting
+raspberry 16 Raspberries grow in bushes behind the house where the ground is always slightly влажный
+strawberry 17 Strawberries are bright red and their sweet smell reminds of summer mornings in the countryside
+watermelon 18 Watermelon is perfect in heat because it is cold refreshing and full of sweet juice
+
+(2)в обратном порядке:
+
+watermelon 18 Watermelon is perfect in heat because it is cold refreshing and full of sweet juice
+strawberry 17 Strawberries are bright red and their sweet smell reminds of summer mornings in the countryside
+raspberry 16 Raspberries grow in bushes behind the house where the ground is always slightly влажный
+plum 15 Plums are often used for jam and their deep color makes the result look rich and inviting
+pear 14 Pears are soft and sweet and they are often eaten in the calm silence of a warm afternoon
+peach 13 A peach lay on the plate and its soft skin reflected the light coming through the open window
+orange 12 Oranges contain vitamin C and their fresh smell spreads quickly when you peel them slowly
+melon 11 The melon was juicy and sweet and its aroma filled the entire kitchen during the quiet evening
+mango 10 Mangoes are popular in summer because of their bright flavor and soft texture that melts in the mouth
+lemon 9 Lemon juice is very sour but it adds a refreshing note to the water on a hot summer afternoon
+kiwi 8 Kiwi fruit has a unique taste that reminds of something both fresh and slightly sweet at the same time
+grape 7 Grapes were harvested yesterday and placed in large baskets that stood near the old stone house
+fig 6 A fig tree was growing slowly in the garden surrounded by tall grass and the distant sound of birds
+date 5 Dates were carefully arranged on a plate and their rich sweetness filled the small cozy room
+cherry 4 Cherry blossoms covered the narrow street creating a quiet and peaceful atmosphere in the early morning
+banana 3 Yellow bananas were lying in a basket near the window where the light gently touched their surface
+apricot 2 A sweet apricot fell silently from the tree and rolled across the dry grass under the warm sun
+apple 1 The old wooden table was covered with fresh red apples shining softly in the evening light
+
+(3)в произвольном порядке:
+
+mango 10 Mangoes are popular in summer because of their bright flavor and soft texture that melts in the mouth
+apple 1 The old wooden table was covered with fresh red apples shining softly in the evening light
+pear 14 Pears are soft and sweet and they are often eaten in the calm silence of a warm afternoon
+banana 3 Yellow bananas were lying in a basket near the window where the light gently touched their surface
+watermelon 18 Watermelon is perfect in heat because it is cold refreshing and full of sweet juice
+fig 6 A fig tree was growing slowly in the garden surrounded by tall grass and the distant sound of birds
+cherry 4 Cherry blossoms covered the narrow street creating a quiet and peaceful atmosphere in the early morning
+lemon 9 Lemon juice is very sour but it adds a refreshing note to the water on a hot summer afternoon
+plum 15 Plums are often used for jam and their deep color makes the result look rich and inviting
+grape 7 Grapes were harvested yesterday and placed in large baskets that stood near the old stone house
+orange 12 Oranges contain vitamin C and their fresh smell spreads quickly when you peel them slowly
+kiwi 8 Kiwi fruit has a unique taste that reminds of something both fresh and slightly sweet at the same time
+strawberry 17 Strawberries are bright red and their sweet smell reminds of summer mornings in the countryside
+date 5 Dates were carefully arranged on a plate and their rich sweetness filled the small cozy room
+melon 11 The melon was juicy and sweet and its aroma filled the entire kitchen during the quiet evening
+raspberry 16 Raspberries grow in bushes behind the house where the ground is always slightly влажный
+apricot 2 A sweet apricot fell silently from the tree and rolled across the dry grass under the warm sun
+peach 13 A peach lay on the plate and its soft skin reflected the light coming through the open window
